@@ -1,10 +1,4 @@
 .*swp
-.htaccess
 *~
 *.DS_Store
-application/logs/*
-application/cache/*
-media/uploads/*
-application/config/auth.php
-application/config/encryption.php
-tests/phpunit/phpunit.xml
+
