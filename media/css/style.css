@@ -1860,3 +1860,5 @@ div.green-box ul, div.red-box ul{
 .left {
 	float:left;
 }
+
+.footer-credits, .footer-credits, #header_nav_right, #header_nav_left {display: none;}
